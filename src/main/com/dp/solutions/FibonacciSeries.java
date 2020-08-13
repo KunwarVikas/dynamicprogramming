@@ -1,4 +1,4 @@
-package main.com.db.solutions;
+package main.com.dp.solutions;
 
 import java.util.Scanner;
 
